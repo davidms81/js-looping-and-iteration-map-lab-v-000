@@ -12,3 +12,7 @@ function nameToAttributes(drivers){
     return {firstName: first, lastName: last}
   })
 }
+
+function attributesToPhrase(drivers){
+  
+}
